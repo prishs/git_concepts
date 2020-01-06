@@ -1,0 +1,331 @@
+  866  git add .
+  867  git commit -m "data structure"
+  868  git push origin master
+  876  git add .
+  877  git status
+  878  git commit -m "data structure"
+  879  git commit -m "data"
+  880  git add origin master
+  881  git push origin master
+  890  git add .
+  891  git commit -m "data structure"
+  892  git push origin master
+  901  git init
+  902  git add .
+  903  git commit -m "core examples added"
+  904  git remote add origin https://github.com/nehapadage/Core-Examples.git
+  905  git push origin master 
+  914  git init
+  915  git add .
+  916  git init
+  917  git add .
+  918  git commit -m "OOPs"
+  919  git remote add origin https://github.com/nehapadage/OOPs.git
+  920  git push origin master
+  931  git add .
+  932  git commit -m "oops"
+  933  git push origin master
+  935  git add .
+  936  git commit -m "Oops Programs Uploaded"
+  937  git push origin master
+  944  git add .
+  945  git commit -m "Oops Programs Uploaded"
+  946  git push origin master
+  971  git add .
+  972  git commit -m "Oops Programs Uploaded"
+  973  git push origin master
+  974  git add .
+  975  git commit -m "core"
+  976  git remote add origin https://github.com/nehapadage/Core-Examples.git
+  977  git push origin master
+ 1000  git add .
+ 1001  git remote add origin https://github.com/nehapadage/Core-Examples.git
+ 1002  git push origin master
+ 1003  git add .
+ 1004  git commit -m "core"
+ 1005  git remote add origin https://github.com/nehapadage/Core-Examples.git
+ 1006  git push origin master
+ 1079  git init
+ 1080  git add README.md
+ 1081  git add .
+ 1082  git commit -m "first commit"
+ 1083  git remote add origin https://github.com/nehapadage/Chat-Application.git
+ 1084  git push -u origin master
+ 1102  git add .
+ 1103  git commit -m "second commit"
+ 1104  git push -u origin master
+ 1143  git add .
+ 1144  git commit -m "third commit"
+ 1145  git push origin master
+ 1149  git add .
+ 1150  git commit -m "Chat App Updated"
+ 1151  git push origin master
+ 1221  git add . 
+ 1222  git commit -m "chat updates"
+ 1223  git push origin master
+ 1224  git add .
+ 1225  git commit -m "Chat App Updated"
+ 1226  git push origin master
+ 1242  git add .
+ 1243  git commit -m "Chat App Updated"
+ 1244  git push origin master
+ 1254  git add .
+ 1255  git commit -m "ChatApp Updated"
+ 1256  git push origin master
+ 1263  git add .
+ 1264  git commit -m "ChatApp Updated..."
+ 1265  git push origin master
+ 1275  git add .
+ 1276  git commit -m "ChatApp"
+ 1277  git push origin master
+ 1283  git add .
+ 1284  git commit -m "ChatApp"
+ 1285  git push origin master
+ 1287  git add .
+ 1288  git commit -m "ChatApp update"
+ 1289  git push origin master
+ 1296  git commit -m "ChatApp updates done"
+ 1297  git push origin master
+ 1321  git init
+ 1322  git add .
+ 1323  git commit -m "first fundoo commit"
+ 1324  git remote add origin https://github.com/nehapadage/Fundoo.git
+ 1325  git push -u origin master
+ 1428  git add .
+ 1429  git commit -m "updates"
+ 1430  git push origin master
+ 1432  git init
+ 1433  git add .
+ 1434  git commit -m "first admin commit"
+ 1435  git remote add origin https://github.com/nehapadage/Admin_Fundoo.git
+ 1436  git push origin master 
+ 1470  git init
+ 1471  git add .
+ 1472  git commit -m "fundoo"
+ 1473  git remote add origin https://github.com/nehapadage/Fundoo.git
+ 1474  git push origin master
+ 1477  git add .
+ 1478  git commit -m "fundoo color done"
+ 1479  git push origin master
+ 1489  git add .
+ 1490  git commit -m "fundoo reminder done"
+ 1491  git push origin master
+ 1492  git add .
+ 1493  git commit -m "fundoo"
+ 1494  git push origin master
+ 1496  git add .
+ 1497  git commit -m "fundoo updates"
+ 1498  git push origin master
+ 1501  git add .
+ 1502  git commit -m "fundoo updates done"
+ 1503  git push origin master
+ 1504  git add .
+ 1505  git commit -m "fundoo updates done1"
+ 1506  git push origin master
+ 1508  git add .
+ 1509  git commit -m "fundoo updates done2"
+ 1510  git push origin master
+ 1519  git add .
+ 1520  git commit -m "fundoo updates done3"
+ 1521  git push origin master
+ 1522  git add .
+ 1523  git commit -m "fundoo updates done4"
+ 1524  git push origin master
+ 1526  git add .
+ 1527  git commit -m "fundoo updates done5"
+ 1528  git push origin master
+ 1530  git add .
+ 1531  git commit -m "fundoo updates done6"
+ 1532  git push origin master
+ 1537  git add .
+ 1538  git commit -m "fundoo updates done7"
+ 1539  git push origin master
+ 1543  git add .
+ 1544  git commit -m "fundoo updates done8"
+ 1545  git push origin master
+ 1549  git add .
+ 1550  git commit -m "fundoo updates done9"
+ 1551  git push origin master
+ 1555  git add .
+ 1556  git commit -m "fundoo updates done10"
+ 1557  git push origin master
+ 1560  git add .
+ 1561  git commit -m "fundoo updates done11"
+ 1562  git push origin master
+ 1567  git add .
+ 1568  git commit -m "fundoo updates done12"
+ 1569  git push origin master
+ 1570  git add .
+ 1571  git commit -m "admin updates done 1"
+ 1572  git push origin master
+ 1580  git add .
+ 1581  git commit -m "fundooooo"
+ 1582  git push origin master
+ 1586  git add .
+ 1587  git commit -m "fundooooofun"
+ 1588  git push origin master
+ 1589  git add .
+ 1590  git commit -m "fundooooofun1"
+ 1591  git push origin master
+ 1593  git add .
+ 1594  git commit -m "fundooooofun2"
+ 1595  git push origin master
+ 1598  git add .
+ 1599  git commit -m "fundooooofun3"
+ 1600  git push origin master
+ 1603  git add .
+ 1604  git commit -m "fundooooofun4"
+ 1605  git push origin master
+ 1606  git add .
+ 1607  git commit -m "fundooooofun5"
+ 1608  git push origin master
+ 1610  git add .
+ 1611  git commit -m "fundooooofun6"
+ 1612  git push origin master
+ 1616  git add .
+ 1617  git commit -m "fundooooofun7"
+ 1618  git push origin master
+ 1632  git add .
+ 1633  git commit -m "fundooooofun8"
+ 1634  git push origin master
+ 1643  git add .
+ 1644  git commit -m "fundooooofun9"
+ 1645  git push origin master
+ 1662  git add .
+ 1663  git commit -m "fundooooofun10"
+ 1664  git push origin master
+ 1673  git init
+ 1674  git commit -m "first commit"
+ 1675  git add .
+ 1676  git commit -m "first commit"
+ 1677  git remote add origin https://github.com/nehapadage/Liberty.git
+ 1678  git push -u origin master
+ 1680  git add .
+ 1681  git commit -m "2 commit"
+ 1683  git push -u origin master
+ 1685  git add .
+ 1686  git commit -m "3 commit"
+ 1687  git push -u origin master
+ 1689  git add .
+ 1690  git commit -m "4 commit"
+ 1691  git push -u origin master
+ 1700  git add .
+ 1701  git commit -m "5 commit"
+ 1702  git push -u origin master
+ 1707  git add .
+ 1708  git commit -m "6 commit"
+ 1709  git push -u origin master
+ 1710  git add .
+ 1711  git commit -m "33 final  commit"
+ 1713  git push -u origin master
+ 1715  git add .
+ 1716  git commit -m "7 commit"
+ 1717  git push -u origin master
+ 1718  git add .
+ 1719  git commit -m "8 commit"
+ 1720  git push -u origin master
+ 1728  mkdir git1
+ 1731  mv index.html git1
+ 1735  mv index.css git1/
+ 1737  cd git1/
+ 1738  git init
+ 1739  git config list
+ 1740  git config --list
+ 1741  git config user.name
+ 1742  git config user.name "pratiti" --global
+ 1743  git config user.name
+ 1744  git config user.email "pratitipshah@gmail.com" --global
+ 1745  git config --list
+ 1746  git config color.ui true
+ 1747  git status
+ 1748  git add -a -m "initial commit"
+ 1749  git -a -m "initial commit"
+ 1752  git clone https://github.com/openact/Hello-World.git
+ 1753  cd git1/
+ 1754  git staus
+ 1755  git status
+ 1756  git -a -m "initial commot"
+ 1757  git commit -a -m "initial commot"
+ 1758  git commit -a -m "initial commit"
+ 1759  git status
+ 1760  git add -A
+ 1761  git status
+ 1762  git commit -m "initial commit"
+ 1763  git commit -a -m "initial "
+ 1765  git commit -a "added index.js"
+ 1766  git remote add origin https://github.com/openact/git_concepts.git
+ 1767  git remote
+ 1768  git push -u origin master
+ 1770  git remote -v
+ 1771  git status
+ 1772  git add .
+ 1773  git commit
+ 1774  git reset --soft HEAD^
+ 1775  git status
+ 1776  git commit --amend -m "initial commit added index.js"
+ 1777  git status
+ 1778  git push
+ 1779  git pull origin master
+ 1780  git log
+ 1781  git push origin master
+ 1782  git fetch --all
+ 1783  git reset --hard origin master
+ 1784  git reset --hard origin/master
+ 1785  git pull origin master
+ 1786  git status
+ 1787  git pull origin master
+ 1788  git status
+ 1790  git add .
+ 1791  git commit
+ 1792  git status
+ 1793  git push
+ 1794  git pull origin master
+ 1795  git status
+ 1797  git add .
+ 1798  git commit -m "modified index.html after resolving merge conflict"
+ 1799  git push 
+ 1800  git branch
+ 1801  git branch feature msg_change
+ 1802  git branch feature msg change
+ 1803  git branch feature msgchange
+ 1804  git branch featureMsgChange
+ 1805  git branch
+ 1806  git checkout featureMsgChange 
+ 1807  git branch
+ 1808  git checkout master
+ 1809  git pull
+ 1810  git branch
+ 1811  git diff 
+ 1812  git diff --color-words
+ 1813  git diff master featureMsgChange 
+ 1814  git merge featureMsgChange 
+ 1815  git push 
+ 1816  git checkout featureMsgChange 
+ 1818  git chechout master
+ 1819  git checkout master
+ 1820  git pull 
+ 1821  git diff master featureMsgChange 
+ 1822  git checkout master
+ 1823  git merge featureMsgChange 
+ 1824  git push 
+ 1825  git checkout -b temp
+ 1826  git branch
+ 1827  git checkout featureMsgChange 
+ 1829  git status
+ 1830  git checkout temp
+ 1831  git status
+ 1832  git branch -d temp
+ 1833  git checkout master
+ 1834  git branch -d temp
+ 1835  git checkout featureMsgChange 
+ 1838  git status
+ 1839  git add --all
+ 1840  git commit -m "Temporary"
+ 1842  git checkout master 
+ 1845  git merge featureMsgChange 
+ 1847  git log
+ 1849  git push origin featureMsgChange 
+ 1850  git checkout featureMsgChange 
+ 1852  git history| grep git
+ 1853  history| grep git
+ 1854  history| grep git >> gitcommand.txt
